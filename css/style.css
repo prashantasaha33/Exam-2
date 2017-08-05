@@ -1,0 +1,150 @@
+header{
+}
+
+.top-header{
+margin-top: 10px;
+}
+
+.border{
+	border-bottom: 1px solid #c5c2c2;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+
+.logo{
+float: left;
+}
+
+.logo h1{
+	float: right;
+	margin: 15px 15px;
+	font-size: 20px;
+}
+
+.social{
+float: right;
+}
+
+.social ul{
+
+}
+.social li{
+
+position: relative;
+}
+
+.social-hend{position: absolute;
+	top: 15px;left: 15px;
+}
+
+.header-bottom{
+
+}
+
+.banner-section{
+	background-image: url(../images/slider_background.png);
+
+}
+
+.ban-img{
+/*text-align: center;*/
+}
+.ban-img img{transform: translateY(60px);}
+
+
+.banner-content{
+	margin-top: 100px;
+	margin-bottom: 40px;
+
+}
+.bg-content {
+	text-align: center;}
+.bg-content p{margin: 10px 100px 10px 100px;}
+.bg-content button{
+
+margin-top: 20px;
+
+border-color: transparent;
+
+padding: 15px;
+
+background: #18904a;
+}
+.bg-content button a{
+
+color: aliceblue;
+
+text-align: center;
+
+font-weight: 800;
+}
+
+.video-section{
+	background-color: #ddd;
+}
+
+.video-img{
+	position: relative;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	float: right;
+}
+
+.video-img .video-icon{
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	text-align: center;
+}
+
+.video-content{
+	margin-top: 40px;
+	margin-right: 70px;
+}
+.big-footer{
+
+background-color: #171414;
+}
+.left-content{float: left;margin-top: 60px;margin-bottom: 60px;}
+
+.left-content h2{
+color: aliceblue;
+box-sizing: border-box;
+font-weight: 600;
+margin: 0 auto;
+}
+
+.right-btn{
+float: right;
+}
+.right-btn button{
+	padding: 20px;
+	background: #188e49;
+	border: transparent;
+	margin-top: 50px;
+	margin-right: 60px;
+	}
+.right-btn button a{color: white;font-weight: 800;}
+
+footer{
+    background: #cfd0d0;
+}
+.footer-content{
+margin-top: 25px;
+float: left;
+margin-bottom: 10px;
+}
+
+.footer-content p{
+color: #737475;
+}
+
+.footer-menu{float: right;margin-top: 15px;color: #03111d;margin-right: 30px;}
+.footer-menu ul{
+
+}
+.footer-menu .nav-pills{
+}
+.footer-menu .nav-pills li{
+}
